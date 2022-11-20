@@ -1,0 +1,48 @@
+{
+    "name": "Dio Brando",
+    "nik": "9999999999999999",
+    "mobile_number": "089999999999",
+    "identity_pillar": {
+        "business_category": "Non-Pertanian",
+        "ownership_status": "Milik Sendiri",
+        "npwp": "99.999.999.9-999.999",
+        "support_1_path": "abcdefghijklmnopqrstuvwxyz",
+        "support_2_path": "abcdefghijklmnopqrstuvwxyz",
+        "support_3_path": "abcdefghijklmnopqrstuvwxyz"
+    },
+    "capacity_pillar": {
+        "financial_type": "Bulanan",
+        "total_income": 0,
+        "production_amount": 0, 
+        "estimated_selling_price": 0,
+        "total_hpp_expense": 0,
+        "total_planting_cost": 0,
+        "land_area": 0,
+        "total_employee": 0,
+        "wages": 0,
+        "miscellaneous_income": 0,
+        "household_expenses": 0,
+        "total_other_expenses": 0,
+        "total_other_installment": 0,
+        "netto_income": 0,
+        "rpc": 0,
+        "collateral_type": "Persediaan",
+        "estimated_collateral_value": 0,
+        "collateral_type1": "Persediaan",
+        "estimated_collateral_value1": 0,
+        "collateral_type2": "Persediaan",
+        "estimated_collateral_value2": 0,
+        "collateral_type3": "Persediaan",
+        "estimated_collateral_value3": 0,
+        "collateral_type4": "Persediaan",
+        "estimated_collateral_value4": 0
+    },
+    "behavior_pillar": {
+        "installment_pattern": 1,
+        "loan_amount": 0,
+        "installment_amount": 0,
+        "jenis_penggunaan": "Investasi",
+        "insurance_amount": 0,
+        "tenor": 8
+    }
+}
